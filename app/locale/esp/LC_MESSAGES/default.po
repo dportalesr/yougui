@@ -1,0 +1,59 @@
+msgid "Captcha"
+msgstr "Pregunta anti-spam"
+
+msgid "captchaExplained"
+msgstr "<a href='http://es.wikipedia.org/wiki/Captcha' target='_blank' rel='nofollow'>¿Qué es esto?</a>"
+
+msgid "calcMinus"
+msgstr "menos"
+
+msgid "calcPlus"
+msgstr "mas"
+
+msgid "calcTimes"
+msgstr "por"
+
+msgid "captchaResultIncorrect"
+msgstr "El resultado es incorrecto"
+
+msgid "captchaResultTooFast"
+msgstr "El formulario ha sido llenado demasiado rápido"
+
+msgid "captchaResultTooLate"
+msgstr "El tiempo permitido para llenar el formulario ha expirado"
+
+msgid "captchaIllegalContent"
+msgstr "Contenido ilegal en el formulario"
+
+msgid "one"
+msgstr "uno"
+
+msgid "two"
+msgstr "dos"
+
+msgid "three"
+msgstr "tres"
+
+msgid "four"
+msgstr "cuatro"
+
+msgid "five"
+msgstr "cinco"
+
+msgid "six"
+msgstr "seis"
+
+msgid "seven"
+msgstr "siete"
+
+msgid "eight"
+msgstr "ocho"
+
+msgid "nine"
+msgstr "nueve"
+
+msgid "ten"
+msgstr "diez"
+
+msgid "zero"
+msgstr "cero"

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE book SYSTEM "http://www.megazine3.de/megazine2.dtd">
+<book>
+<!--
+	Replace the <book> tag above with this one to have all common plugins loaded (all except elementids, googleanalytics, password, printpdf, search and sidebar).
+<book plugins="anchors, backgroundsounds, batchpages, bookmarks, console, gallery, help, javascript, keyboardnavigation, links, navigationbar, options, overlays, pdflinks, print, slideshow, swfaddress, titles">
+-->
+	<foreground>
+		<!--
+			Note: if it bothers you, you may delete the "Powered by MegaZine3" link by removing the following box tag.
+			But we would appreciate it if you'd leave it in to spread the word. Thanks!
+		-->
+	</foreground>
+	<chapter>
+		<page/>
+		<page/>
+		<page/>
+		<page/>
+		<page/>
+		<page/>
+		<page/>
+		<page/>
+		<page/>
+		<page/>
+		<page/>
+		<page/>
+		<page/>
+		<page/>
+		<page/>
+	</chapter>
+</book>
