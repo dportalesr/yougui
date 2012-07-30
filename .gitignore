@@ -1,5 +1,5 @@
 /app/config/database.php
-/app/tmp/*
+/app/tmp/cache/*
 /app/webroot/cache
 /plugins
 *.log
