@@ -130,7 +130,7 @@
  
 Cache::config('default', array(
 	'engine' => 'File',
-	'duration'=> '+7 days',
+	'duration'=> '+20 days',
 	'probability'=> 100
 ));
 Configure::load('site');

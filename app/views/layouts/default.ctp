@@ -22,7 +22,7 @@
 <meta itemprop="description" content="<?=$og_for_layout['description']?>" />
 <meta itemprop="image" content="<?=$og_for_layout['image']?>" />
 
-<?=$html->css(array('generic','main','pulsembox'))?> 
+<?=$html->css(array('generic','main','pulsembox','http://fonts.googleapis.com/css?family=Droid+Sans'))?> 
 </head>
 <?php
 echo
@@ -30,8 +30,9 @@ echo
 		$html->div(null,null,array('id'=>'nofooter')),
 			$html->div(null,null,array('id'=>'header')),
 				$html->tag('h1',$html->link($sitename_for_layout,'/',array('title'=>$sitename_for_layout)),array('id'=>'logo')),
+				$html->div('headerInfo',$html->tag('span','Piensa','piensa').$html->tag('span','Juega','juega').$html->tag('span','Aprende&#174;')),
+				$this->element('menu'),
 			'</div>',
-			$this->element('menu'),
 			$html->div(null,$content_for_layout.'',array('id'=>'body')),
 			$html->div(null,'',array('id'=>'cleaner')),
 		'</div><!-- #nofooter -->',

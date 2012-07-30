@@ -15,7 +15,7 @@ if(isset($header)){
 		$header = $html->div('sectionHdr',$html->link($text,$header));
 	}
 } else {
-	$header = $html->div('sectionHdr',$_ts);
+	$header = $html->div('title title2',$_ts);
 }
 
 echo

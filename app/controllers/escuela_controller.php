@@ -1,11 +1,12 @@
 <?php
 App::import('Controller','_base/Section');
-class AboutController extends SectionController {
-	var $name = 'About';
+class EscuelaController extends SectionController {
+	var $name = 'Escuela';
 	var $uses = null;
-
+	
 	function index(){
 
 	}
+
 }
 ?>

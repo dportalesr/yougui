@@ -1,9 +1,9 @@
 <?php
 $config['Site'] = array(
-	'name'=>'IMP',
+	'name'=>'Nombre de la Empresa',
 	'domain'=>$_SERVER['SERVER_NAME'],
-	'email'=>'gerencia@'.$_SERVER['SERVER_NAME'],
-	'slogan'=>'Intercambio de Metales Preciosos',
+	'email'=>'info@'.$_SERVER['SERVER_NAME'],
+	'slogan'=>'Slogan',
 	'keywords'=>'',
 	'description'=>'',
 	'tw'=>'',
@@ -31,24 +31,38 @@ $config['Site']['og'] = array(
 */
 $modules = array(
 	'about'=>array(
-		'nosotros',
+		'concepto',
 		'menu',
 		'admin'=>false
 	),
-	'services'=>array(
-		'Servicios',
+	'escuela'=>array(
+		'la escuela',
+		'menu',
+		'route'=>'escuela',
+		'admin'=>false
+	),
+	'courses'=>array(
+		'cursos',
 		'menu',
 		'admin'=>false
 	),
-	'metales'=>array(
+	'posts'=>array(
+		'blog',
 		'menu',
-		'admin'=>false
+		'admin'=>array('posts')
 	),
-	'video'=>array(
+	'franquicia'=>array(
 		'menu',
-		'admin'=>false
+		'admin'=>array('pages')
 	),
-	'contacto'=>array('menu','admin'=>false)
+	'banners'=>array(
+		'admin'=>array('banners')
+	),
+	'contacto'=>array('menu','admin'=>false),
+	'users'=>array(
+		'Usuarios',
+		'admin'=>array('users')
+	),
 );
 
 $cached_modules = Cache::read('sitemodules');

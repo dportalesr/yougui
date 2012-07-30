@@ -1,3 +1,13 @@
+@font-face {
+    font-family: 'Bariol';
+    src: url('/fonts/bariol_regular-webfont.eot');
+    src: url('/fonts/bariol_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/bariol_regular-webfont.woff') format('woff'),
+         url('/fonts/bariol_regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 article, aside, details, figcaption, figure, footer, header, hgroup, nav, section { display: block; }
 audio, canvas, video { display: inline-block; *display: inline; *zoom: 1; }
 audio:not([controls]) { display: none; }
