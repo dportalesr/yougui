@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"fs",
+				"fs	fs"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"a",
+				"absolute	(a)"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
 				"valid",
 				"valid_noempty	valid_noempty"
 			],
@@ -224,10 +240,6 @@
 				"month"
 			],
 			[
-				"ver",
-				"vertical	vertical-align: type"
-			],
-			[
 				"strto",
 				"strtotime"
 			],
@@ -388,10 +400,24 @@
 	},
 	"file_history":
 	[
+		"/W/yougui/app/views/about/index.ctp",
+		"/W/yougui/app/webroot/css/main.css",
+		"/W/__cake/app/config/site.php",
+		"/W/yougui/app/config/site.php",
+		"/W/yougui/app/views/inicio/index.ctp",
+		"/W/yougui/app/views/elements/top.ctp",
+		"/W/yougui/app/views/escuela/index.ctp",
+		"/W/yougui/app/controllers/about_controller.php",
+		"/W/yougui/app/controllers/escuela_controller.php",
+		"/C/Users/Dan/AppData/Local/Temp/fz3temp-1/index.php",
+		"/W/yougui/app/views/layouts/default.ctp",
+		"/W/yougui/app/views/elements/menu.ctp",
+		"/W/yougui/app/webroot/css/generic.css",
+		"/W/yougui/app/views/elements/footer.ctp",
+		"/C/Dropbox/Env/Sublime Text 2/Data/Packages/Snippets/CSS/fonts/bariol.sublime-snippet",
 		"/W/__cake - before Shop/app/config/database.php",
 		"/W/__cake - before Shop/app/config/site.php",
 		"/W/__cake - before Shop/app/config/core.php",
-		"/W/__cake/app/config/site.php",
 		"/W/__cake - before Shop/app/config/bootstrap.php",
 		"/W/__cake/app/config/bootstrap.php",
 		"/W/__cake/app/config/acl.ini.php",
@@ -501,21 +527,7 @@
 		"/W/multiland/app/config/database.php",
 		"/W/multiland/app/views/elements/tinymce.ctp",
 		"/W/multiland/app/app_model.php",
-		"/W/multiland/app/views/contacto/index.ctp",
-		"/W/multiland/app/views/logos/admin_index.ctp",
-		"/W/multiland/app/controllers/logos_controller.php",
-		"/W/multiland/app/controllers/contacto_controller.php",
-		"/C/Dropbox/Env/Sublime Text 2/Data/Packages/Snippets/PHP/ckaddedit.sublime-snippet",
-		"/C/Dropbox/Env/Sublime Text 2/Data/Packages/Snippets/PHP/ckbelongs.sublime-snippet",
-		"/C/Dropbox/Env/Sublime Text 2/Data/Packages/Snippets/PHP/ckbeforevalidate.sublime-snippet",
-		"/C/Dropbox/Env/Sublime Text 2/Data/Packages/Snippets/PHP/ckinp.sublime-snippet",
-		"/W/_snippets/Modelo.php",
-		"/W/pulsem/app/locale/esp/LC_MESSAGES/default.po",
-		"/W/pulsem/app/locale/eng/LC_MESSAGES/default.po",
-		"/W/pulsem/app/views/layouts/default.ctp",
-		"/W/pulsem/app/views/elements/gplus.ctp",
-		"/W/pulsem/app/views/elements/facebook.ctp",
-		"/W/pulsem/app/views/elements/twitter.ctp"
+		"/W/multiland/app/views/contacto/index.ctp"
 	],
 	"find":
 	{
@@ -533,6 +545,20 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			".c_about",
+			"About",
+			"blue",
+			"padding-top:13px",
+			"12px",
+			"margin-bottom:13px;",
+			".intro",
+			"enlaces",
+			"32px",
+			"jpg",
+			"width:113px;",
+			"36px",
+			"31",
+			"bariol",
 			"fb(",
 			"$model",
 			"defaultmodel",
@@ -646,21 +672,7 @@
 			"Landing",
 			"$",
 			"agregar(",
-			"msgstr	",
-			"msgid	",
-			"comment",
-			"$this",
-			"this",
-			"$this",
-			"url(",
-			"url",
-			"$url",
-			"redirect",
-			"descr",
-			"$conds",
-			"200",
-			"/:lang/",
-			"array('controller'=>'"
+			"msgstr	"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -739,6 +751,50 @@
 		"selected_items":
 		[
 			[
+				"maincss",
+				"webroot/css/main.css"
+			],
+			[
+				"aboutindex",
+				"views/about/index.ctp"
+			],
+			[
+				"site",
+				"config/site.php"
+			],
+			[
+				"about_",
+				"controllers/about_controller.php"
+			],
+			[
+				"top",
+				"views/elements/top.ctp"
+			],
+			[
+				"inicioindex",
+				"views/inicio/index.ctp"
+			],
+			[
+				"footer",
+				"views/elements/footer.ctp"
+			],
+			[
+				"gener",
+				"webroot/css/generic.css"
+			],
+			[
+				"menu",
+				"views/elements/menu.ctp"
+			],
+			[
+				"generic",
+				"webroot/css/generic.css"
+			],
+			[
+				"default",
+				"views/layouts/default.ctp"
+			],
+			[
 				"categ",
 				"controllers/_base/categorizeditems_controller.php"
 			],
@@ -779,10 +835,6 @@
 				"webroot/css/admin.css"
 			],
 			[
-				"gener",
-				"webroot/css/generic.css"
-			],
-			[
 				"prod_c",
 				"controllers/products_controller.php"
 			],
@@ -791,20 +843,12 @@
 				"views/products/admin_agregar.ctp"
 			],
 			[
-				"generic",
-				"webroot/css/generic.css"
-			],
-			[
 				"admin_agrg",
 				"views/products/admin_agregar.ctp"
 			],
 			[
 				"admin_agre",
 				"views/polls/admin_agregar.ctp"
-			],
-			[
-				"site",
-				"config/site.php"
 			],
 			[
 				"appmode",
@@ -943,16 +987,8 @@
 				"views/products/index.ctp"
 			],
 			[
-				"menu",
-				"views/elements/menu.ctp"
-			],
-			[
 				"databas",
 				"config/database.php"
-			],
-			[
-				"maincss",
-				"webroot/css/main.css"
 			],
 			[
 				"index5",
@@ -981,10 +1017,6 @@
 			[
 				"inicio_",
 				"controllers/inicio_controller.php"
-			],
-			[
-				"top",
-				"views/elements/top.ctp"
 			],
 			[
 				"defau",
@@ -1083,16 +1115,8 @@
 				"controllers/inicio_controller.php"
 			],
 			[
-				"footer",
-				"views/elements/footer.ctp"
-			],
-			[
 				"gene",
 				"webroot/css/generic.css"
-			],
-			[
-				"inicioindex",
-				"views/inicio/index.ctp"
 			],
 			[
 				"main",
@@ -1215,10 +1239,6 @@
 				"views/elements/clientlist.ctp"
 			],
 			[
-				"aboutindex",
-				"views/about/index.ctp"
-			],
-			[
 				"servindex",
 				"views/services/index.ctp"
 			],
@@ -1241,14 +1261,6 @@
 			[
 				"sideb",
 				"views/elements/sidebar.ctp"
-			],
-			[
-				"worksver",
-				"views/works/ver.ctp"
-			],
-			[
-				"app",
-				"app_controller.php"
 			]
 		],
 		"width": 0.0
@@ -1258,6 +1270,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"cake",
+				"/W/__cake/app/cake.sublime-project"
+			],
 			[
 				"m",
 				"/W/multiland/app/multiland.sublime-project"

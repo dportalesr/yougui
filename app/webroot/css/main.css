@@ -501,8 +501,8 @@ div.captcha > span { padding-left:12px; }
 }
 .c_about .desc ul li {
 	background:transparent no-repeat left 3px;
-	padding-left:36px;
-	margin:0 0 16px 12px;
+	padding:0 0 8px 36px;
+	margin:0 0 12px;
 }
 .c_about .desc ul li.bullet_blue { background-image: url(/img/bullet_blue.gif); }
 .c_about .desc ul li.bullet_green { background-image: url(/img/bullet_green.gif); }
